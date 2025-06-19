@@ -9,7 +9,7 @@ const humidityElem = document.getElementById("humidity");
 const errorMessage = document.getElementById("error-message");
 
 // Replace with your own OpenWeatherMap API key
-const API_KEY = "5b227f1bd2d3c17cf749ee97ecfbe86f";
+const API_KEY = "Your own API KEYS";
 
 searchBtn.disabled = true; // Disable button initially
 
